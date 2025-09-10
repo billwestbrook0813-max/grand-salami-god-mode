@@ -7,7 +7,7 @@ services:
     buildCommand: npm install
     startCommand: npm start
     envVars:
-      - key: ODDS_API_KEY
+      - key: 3b944e2e0fb3ea4718ed5ebf25f221b9
         # Add your key in Render dashboard, or set via Blueprint override
         sync: false
       - key: ODDS_REGIONS
